@@ -22,6 +22,14 @@ article {
   overflow-y: auto; /* vertical scroll if needed */
   padding: 1rem; /* optional spacing */
 }
+article {
+  background-color: #fafafa;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  color: #333;
+  font-family: 'Arial', sans-serif;
+}
 
 /* <aside> takes 1 part of space */
 aside {
